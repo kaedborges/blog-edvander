@@ -49,6 +49,7 @@ gem "bootsnap", require: false
 # gem "image_processing", "~> 1.2"
 
 gem 'bootstrap'
+gem 'pry'
 
 #gem 'rails-i18n', '~> 4.0', '>= 4.0.8'
 
