@@ -50,6 +50,7 @@ gem "bootsnap", require: false
 
 gem 'bootstrap'
 gem 'pry'
+gem 'friendly_id'
 
 #gem 'rails-i18n', '~> 4.0', '>= 4.0.8'
 
