@@ -1,4 +1,6 @@
 class Post < ApplicationRecord
+  include PgSearch::Model
+  
   extend FriendlyId
   validates :author, :title, :body, presence: :true
 
